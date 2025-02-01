@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover_photo": "https://i.ibb.co/0MGjBgm/natur-cover.jpg",
+        "author_name": "John Doe",
+        "author_img": "https://i.ibb.co/rd6TdMB/boy-au1.jpg",
+        "posted_date": "2023-12-10",
+        "reading_time": 5,
+        "post_headline": "The Future of Technology: What's Next?",
+        "hashtags": ["technology", "innovation", "future"]
+    },
+    {
+        "id": 2,
+        "cover_photo": "https://i.ibb.co/4sY0DbJ/cover-photo1.png",
+        "author_name": "Jane Smith",
+        "author_img": "https://i.ibb.co/HHVDtqg/boy2.jpg",
+        "posted_date": "2024-01-02",
+        "reading_time": 3,
+        "post_headline": "10 Healthy Habits for a Better Lifestyle",
+        "hashtags": ["health", "wellness", "lifestyle"]
+    },
+    {
+        "id": 3,
+        "cover_photo": "https://i.ibb.co/nz20hXK/3.jpg",
+        "author_name": "Alice Johnson",
+        "author_img": "https://i.ibb.co/HCM0TJx/author-img3.png",
+        "posted_date": "2024-01-15",
+        "reading_time": 7,
+        "post_headline": "Breaking Down the Latest Scientific Discoveries",
+        "hashtags": ["science", "education", "knowledge"]
+    },
+    {
+        "id": 4,
+        "cover_photo": "https://i.ibb.co/QkCCNvN/cover-photo4.png",
+        "author_name": "Robert Brown",
+        "author_img": "https://i.ibb.co/9WVTd8D/author-img4.png",
+        "posted_date": "2024-01-17",
+        "reading_time": 4,
+        "post_headline": "Top 5 Travel Destinations for 2024",
+        "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+        "id": 5,
+        "cover_photo": "https://i.ibb.co/x1WFrCn/cover-photo5.png",
+        "author_name": "Emily Davis",
+        "author_img": "https://i.ibb.co/3f8wtPZ/author-img5.png",
+        "posted_date": "2024-01-18",
+        "reading_time": 6,
+        "post_headline": "Easy & Delicious Recipes You Need to Try",
+        "hashtags": ["food", "recipes", "cooking"]
+    }
+]
