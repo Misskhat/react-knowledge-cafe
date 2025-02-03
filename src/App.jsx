@@ -7,9 +7,12 @@ import Header from "./components/Header/Header";
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
   const [readingTime, setReadingTime] = useState(0)
-  const handleToReadingTime = time =>{
+  const handleToReadingTime = (time, id) =>{
     let newReadingTime = readingTime + time;
-    setReadingTime(newReadingTime)
+    setReadingTime(newReadingTime);
+    // remove bookmarks 
+    const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id);
+    setBookmarks(remainingBookmarks)
   }
 
   const handleToBookmarks = blog =>{
